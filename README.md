@@ -145,7 +145,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Bassmender
 * Marcus Lee
 * notrug
-* jieunah
+* Brian Putera
 * josephh
 * sebasricch
 * DineroDom
